@@ -1,0 +1,6 @@
+Thu Nov  2 19:12:15 2023
+WARNING: mju_openResource: unknown file 'D:/mujoco_menagerie-main/franka_emika_panda/panda_nohands.xml'
+
+Thu Nov  2 19:26:39 2023
+WARNING: mju_openResource: unknown file 'D:/mujoco_menagerie-main/franka_emika_panda/left_hand.xml'
+

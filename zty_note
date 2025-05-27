@@ -1,0 +1,11 @@
+# run EMG
+cd PycharmProjects/FastSAM_rob
+conda activate FastSAM
+# test EMG signal
+python run_bitlino_Only.py
+# EMG control
+python run_env_hand_allegro.py
+
+~/PycharmProjects/FastSAM_rob$ python run_bitlino_Only.py
+~/PycharmProjects/FastSAM_rob$ python run_Bit_Allegro.py
+
